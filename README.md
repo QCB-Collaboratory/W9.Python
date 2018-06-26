@@ -1,3 +1,4 @@
+
 # Introduction to Python Workshop
 <img src="materials/qcbCollaboratory_logo.png" width="100" />
 
@@ -5,23 +6,28 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 
 ## Slides and schedule
 
-* [Day 1](./materials/Slides_Day1.pdf)
+* [Day 1](https://drive.google.com/open?id=1WyPKtfA22jBYuFUO90TFAjBb3i8dm4O5)
 	* First steps
 	* Working with texts
 	* Type of variable
 	* “If-else” statments
 	* Functions
-* [Day 2](./materials/Slides_Day2.pdf)
 	* Data structures
 	* Scripts
-	* “For” loops
+	* “For” loops	
+* [Day 2](https://drive.google.com/open?id=1WyPKtfA22jBYuFUO90TFAjBb3i8dm4O5)
 	* More data structures
 	* While loops
 	* Errors and exceptions
-* [Day 3](./materials/Slides_Day3.pdf)
 	* Writing modules
 	* Other features
 	* File Input/Output
+* Day 3
+	* Jupyter Notebooks
+	* Numpy
+	* Matplotlib
+	* A project
+
 
 ## Example file
 
