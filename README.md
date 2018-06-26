@@ -15,7 +15,7 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 	* Data structures
 	* Scripts
 	* “For” loops	
-* [Day 2](https://drive.google.com/open?id=1WyPKtfA22jBYuFUO90TFAjBb3i8dm4O5)
+* [Day 2](https://drive.google.com/open?id=1udD_ZZfsFIeEoF5tKIqSCyj2xeMs8BRL)
 	* More data structures
 	* While loops
 	* Errors and exceptions
