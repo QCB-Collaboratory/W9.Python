@@ -32,3 +32,4 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 ## Example file
 
 * [FASTQ example file](./materials/scripts/example.fastq)
+* [CSV example file](./materials/data.csv)
