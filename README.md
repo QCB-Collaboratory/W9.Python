@@ -6,7 +6,7 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 
 ## Slides and schedule
 
-* [Day 1](https://drive.google.com/open?id=1WyPKtfA22jBYuFUO90TFAjBb3i8dm4O5)
+* [Day 1](https://drive.google.com/file/d/1WyPKtfA22jBYuFUO90TFAjBb3i8dm4O5/view?usp=sharing)
 	* First steps
 	* Working with texts
 	* Type of variable
@@ -15,14 +15,14 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 	* Data structures
 	* Scripts
 	* “For” loops	
-* [Day 2](https://drive.google.com/open?id=1udD_ZZfsFIeEoF5tKIqSCyj2xeMs8BRL)
+* [Day 2](https://drive.google.com/file/d/1udD_ZZfsFIeEoF5tKIqSCyj2xeMs8BRL/view?usp=sharing)
 	* More data structures
 	* While loops
 	* Errors and exceptions
 	* Writing modules
 	* Other features
 	* File Input/Output
-* Day 3
+* [Day 3](https://drive.google.com/open?id=1bgO1QYIyTxgxm7ZNnzPAOBNlABQ3gA7F)
 	* Jupyter Notebooks
 	* Numpy
 	* Matplotlib
