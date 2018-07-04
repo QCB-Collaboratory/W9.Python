@@ -14,22 +14,18 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 	* Functions
 	* Data structures
 	* Scripts
-	* “For” loops	
+	* “For” loops
 * [Day 2](https://drive.google.com/file/d/1udD_ZZfsFIeEoF5tKIqSCyj2xeMs8BRL/view?usp=sharing)
 	* More data structures
 	* While loops
 	* Errors and exceptions
 	* Writing modules
 	* Other features
-	* File Input/Output
+	* File Input/Output ([FASTQ example file](./materials/example_dat/example.fastq))
 * [Day 3](https://drive.google.com/open?id=1bgO1QYIyTxgxm7ZNnzPAOBNlABQ3gA7F)
 	* Jupyter Notebooks
 	* Numpy
 	* Matplotlib
 	* A project
-
-
-## Example file
-
-* [FASTQ example file](./materials/scripts/example.fastq)
-* [CSV example file](./materials/data.csv)
+		* [CSV example file](./materials/example_dat/data.csv)
+		* [Notebook](./materials/notebooks/NotebookProject.ipynb)
