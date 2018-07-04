@@ -21,11 +21,11 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 	* Errors and exceptions
 	* Writing modules
 	* Other features
-	* File Input/Output ([FASTQ example file](./materials/example_dat/example.fastq))
+	* File Input/Output ([FASTQ example file](./materials/example_data/example.fastq))
 * [Day 3](https://drive.google.com/open?id=1bgO1QYIyTxgxm7ZNnzPAOBNlABQ3gA7F)
 	* Jupyter Notebooks
 	* Numpy
 	* Matplotlib
 	* A project
-		* [CSV example file](./materials/example_dat/data.csv)
+		* [CSV example file](./materials/example_data/data.csv)
 		* [Notebook](./materials/notebooks/NotebookProject.ipynb)
