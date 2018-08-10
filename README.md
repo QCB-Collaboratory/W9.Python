@@ -12,17 +12,21 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 	* Type of variable
 	* “If-else” statments
 	* Functions
+
+* [Day 2](https://drive.google.com/file/d/1udD_ZZfsFIeEoF5tKIqSCyj2xeMs8BRL/view?usp=sharing)
 	* Data structures
 	* Scripts
 	* “For” loops
-* [Day 2](https://drive.google.com/file/d/1udD_ZZfsFIeEoF5tKIqSCyj2xeMs8BRL/view?usp=sharing)
 	* More data structures
 	* While loops
 	* Errors and exceptions
+
+* [Day 3](https://drive.google.com/open?id=1bgO1QYIyTxgxm7ZNnzPAOBNlABQ3gA7F)
 	* Writing modules
 	* Other features
 	* File Input/Output ([FASTQ example file](./materials/example_data/example.fastq))
-* [Day 3](https://drive.google.com/open?id=1bgO1QYIyTxgxm7ZNnzPAOBNlABQ3gA7F)
+	
+* To go further: [Additional slides]()
 	* Jupyter Notebooks
 	* Numpy
 	* Matplotlib
