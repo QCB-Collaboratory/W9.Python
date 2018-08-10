@@ -24,12 +24,10 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 * [Day 3](https://drive.google.com/open?id=1bgO1QYIyTxgxm7ZNnzPAOBNlABQ3gA7F)
 	* Writing modules
 	* Other features
-	* File Input/Output ([FASTQ example file](./materials/example_data/example.fastq))
+	* File Input/Output ([FASTQ example file](https://goo.gl/tYYftm))
 	
-* To go further: [Additional slides]()
+* To go further: [Additional slides](https://drive.google.com/file/d/1qD8j8_4i-a0TUh5IdwVFJipwUhOofVlN/view?usp=sharing)
 	* Jupyter Notebooks
 	* Numpy
 	* Matplotlib
-	* A project
-		* [CSV example file](./materials/example_data/data.csv)
-		* [Notebook](./materials/notebooks/NotebookProject.ipynb)
+	* A project: Zip file to download [here](https://drive.google.com/open?id=1Qmn3LCprFTrFX6HilIX3OhA0G5QbRKuV)
