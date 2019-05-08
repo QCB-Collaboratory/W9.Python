@@ -6,7 +6,7 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 
 ## Slides and schedule
 
-* **Day 1**: [🗒️ slides](https://drive.google.com/file/d/1WyPKtfA22jBYuFUO90TFAjBb3i8dm4O5/view?usp=sharing) , [video 
+* **Day 1**: [slides 🗒️](https://drive.google.com/file/d/1WyPKtfA22jBYuFUO90TFAjBb3i8dm4O5/view?usp=sharing) , [video 
 🎥](https://youtu.be/KaO6o8TAmwU)
 	* First steps
 	* Working with texts
@@ -14,7 +14,7 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 	* “If-else” statments
 	* Functions
 
-* **Day 2**: [🗒️ slides](https://drive.google.com/file/d/1udD_ZZfsFIeEoF5tKIqSCyj2xeMs8BRL/view?usp=sharing) , [video 
+* **Day 2**: [slides 🗒️](https://drive.google.com/file/d/1udD_ZZfsFIeEoF5tKIqSCyj2xeMs8BRL/view?usp=sharing) , [video 
 🎥](https://youtu.be/zrgSIUM2CK0)
 	* Data structures
 	* Scripts
@@ -23,7 +23,7 @@ This is the homepage for the Collaboratory Workshop, Intorduction to Python. You
 	* While loops
 	* Errors and exceptions
 
-* **Day 3**: [🗒️ slides](https://drive.google.com/open?id=1bgO1QYIyTxgxm7ZNnzPAOBNlABQ3gA7F) , [video 
+* **Day 3**: [slides 🗒️](https://drive.google.com/open?id=1bgO1QYIyTxgxm7ZNnzPAOBNlABQ3gA7F) , [video 
 🎥](https://youtu.be/QA3606Wb2oA)
 	* Writing modules
 	* Other features
